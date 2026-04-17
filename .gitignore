@@ -1,0 +1,22 @@
+# Local AI assistant state
+.claude/
+
+# Jupyter notebook metadata
+.ipynb_checkpoints/
+**/.ipynb_checkpoints/
+
+# Jupyter runtime and exported artifacts
+*.nbconvert.ipynb
+
+# Common local Python/Jupyter noise
+__pycache__/
+*.py[cod]
+.python-version
+.venv/
+venv/
+env/
+ENV/
+
+# OS/editor clutter
+.DS_Store
+Thumbs.db
